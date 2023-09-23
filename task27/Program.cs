@@ -6,7 +6,7 @@
 
 using System;
 
-namespace task25
+namespace task27
 {
     class Program
     {
